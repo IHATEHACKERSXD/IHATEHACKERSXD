@@ -8,4 +8,4 @@
 IHATEHACKERSXD/IHATEHACKERSXD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-User scripts for moomoo.io - Greasy Fork
+Moomoo.io Hack: Auto Heal, God Mode and More (2021)
